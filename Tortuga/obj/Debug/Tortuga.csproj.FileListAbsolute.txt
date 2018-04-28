@@ -1,0 +1,10 @@
+C:\Users\JoséEnrique\Desktop\Tortuga\Tortuga\bin\Debug\Tortuga.exe.config
+C:\Users\JoséEnrique\Desktop\Tortuga\Tortuga\bin\Debug\Tortuga.exe
+C:\Users\JoséEnrique\Desktop\Tortuga\Tortuga\bin\Debug\Tortuga.pdb
+C:\Users\JoséEnrique\Desktop\Tortuga\Tortuga\obj\Debug\Tortuga.csprojResolveAssemblyReference.cache
+C:\Users\JoséEnrique\Desktop\Tortuga\Tortuga\obj\Debug\Tortuga.Form1.resources
+C:\Users\JoséEnrique\Desktop\Tortuga\Tortuga\obj\Debug\Tortuga.Properties.Resources.resources
+C:\Users\JoséEnrique\Desktop\Tortuga\Tortuga\obj\Debug\Tortuga.csproj.GenerateResource.Cache
+C:\Users\JoséEnrique\Desktop\Tortuga\Tortuga\obj\Debug\Tortuga.csproj.CoreCompileInputs.cache
+C:\Users\JoséEnrique\Desktop\Tortuga\Tortuga\obj\Debug\Tortuga.exe
+C:\Users\JoséEnrique\Desktop\Tortuga\Tortuga\obj\Debug\Tortuga.pdb
