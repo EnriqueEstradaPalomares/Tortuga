@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Tortuga.Properties
+namespace GraficoTortuga.Properties
 {
 
 

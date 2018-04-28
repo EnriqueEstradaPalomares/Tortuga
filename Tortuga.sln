@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2027
+VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tortuga", "Tortuga\Tortuga.csproj", "{09628F22-9370-4E83-929D-7553DCA0D6E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraficoTortuga", "GraficoTortuga\GraficoTortuga.csproj", "{D0BD02E6-7D56-4851-81A0-EF7CCCACED59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{09628F22-9370-4E83-929D-7553DCA0D6E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{09628F22-9370-4E83-929D-7553DCA0D6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{09628F22-9370-4E83-929D-7553DCA0D6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{09628F22-9370-4E83-929D-7553DCA0D6E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0BD02E6-7D56-4851-81A0-EF7CCCACED59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BD02E6-7D56-4851-81A0-EF7CCCACED59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0BD02E6-7D56-4851-81A0-EF7CCCACED59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0BD02E6-7D56-4851-81A0-EF7CCCACED59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FF867802-4C1B-4D17-8F10-7EAC81D32CA9}
+		SolutionGuid = {68679703-51CA-409C-9676-6D9BAD801848}
 	EndGlobalSection
 EndGlobal

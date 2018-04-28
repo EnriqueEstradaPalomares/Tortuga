@@ -1,0 +1,40 @@
+C:\Users\cesar\Downloads\facultad\Cuarto Semestre\Estructura de datos\GraficoTortuga\GraficoTortuga\bin\Debug\GraficoTortuga.exe.config
+C:\Users\cesar\Downloads\facultad\Cuarto Semestre\Estructura de datos\GraficoTortuga\GraficoTortuga\bin\Debug\GraficoTortuga.exe
+C:\Users\cesar\Downloads\facultad\Cuarto Semestre\Estructura de datos\GraficoTortuga\GraficoTortuga\bin\Debug\GraficoTortuga.pdb
+C:\Users\cesar\Downloads\facultad\Cuarto Semestre\Estructura de datos\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.csprojResolveAssemblyReference.cache
+C:\Users\cesar\Downloads\facultad\Cuarto Semestre\Estructura de datos\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.Form1.resources
+C:\Users\cesar\Downloads\facultad\Cuarto Semestre\Estructura de datos\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.Properties.Resources.resources
+C:\Users\cesar\Downloads\facultad\Cuarto Semestre\Estructura de datos\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.csproj.GenerateResource.Cache
+C:\Users\cesar\Downloads\facultad\Cuarto Semestre\Estructura de datos\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Downloads\facultad\Cuarto Semestre\Estructura de datos\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.exe
+C:\Users\cesar\Downloads\facultad\Cuarto Semestre\Estructura de datos\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.pdb
+E:\GraficoTortuga\GraficoTortuga\bin\Debug\GraficoTortuga.exe.config
+E:\GraficoTortuga\GraficoTortuga\bin\Debug\GraficoTortuga.exe
+E:\GraficoTortuga\GraficoTortuga\bin\Debug\GraficoTortuga.pdb
+E:\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.csprojResolveAssemblyReference.cache
+E:\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.Form1.resources
+E:\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.Properties.Resources.resources
+E:\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.csproj.GenerateResource.Cache
+E:\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.csproj.CoreCompileInputs.cache
+E:\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.exe
+E:\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.pdb
+H:\GraficoTortuga\GraficoTortuga\bin\Debug\GraficoTortuga.exe.config
+H:\GraficoTortuga\GraficoTortuga\bin\Debug\GraficoTortuga.exe
+H:\GraficoTortuga\GraficoTortuga\bin\Debug\GraficoTortuga.pdb
+H:\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.csprojResolveAssemblyReference.cache
+H:\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.Form1.resources
+H:\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.Properties.Resources.resources
+H:\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.csproj.GenerateResource.Cache
+H:\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.csproj.CoreCompileInputs.cache
+H:\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.exe
+H:\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.pdb
+C:\Users\JoséEnrique\Desktop\GraficoTortuga\GraficoTortuga\bin\Debug\GraficoTortuga.exe.config
+C:\Users\JoséEnrique\Desktop\GraficoTortuga\GraficoTortuga\bin\Debug\GraficoTortuga.exe
+C:\Users\JoséEnrique\Desktop\GraficoTortuga\GraficoTortuga\bin\Debug\GraficoTortuga.pdb
+C:\Users\JoséEnrique\Desktop\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.csprojResolveAssemblyReference.cache
+C:\Users\JoséEnrique\Desktop\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.Form1.resources
+C:\Users\JoséEnrique\Desktop\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.Properties.Resources.resources
+C:\Users\JoséEnrique\Desktop\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.csproj.GenerateResource.Cache
+C:\Users\JoséEnrique\Desktop\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.csproj.CoreCompileInputs.cache
+C:\Users\JoséEnrique\Desktop\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.exe
+C:\Users\JoséEnrique\Desktop\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.pdb

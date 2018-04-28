@@ -1,4 +1,4 @@
-﻿namespace Tortuga
+﻿namespace GraficoTortuga
 {
     partial class Form1
     {
@@ -28,118 +28,119 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnPlumaArriba = new System.Windows.Forms.Button();
+            this.txtPiso = new System.Windows.Forms.TextBox();
+            this.btnPlumaAbajo = new System.Windows.Forms.Button();
+            this.btnGirarIzquierda = new System.Windows.Forms.Button();
+            this.btnGirarDerecha = new System.Windows.Forms.Button();
+            this.btnAvanzar = new System.Windows.Forms.Button();
+            this.btnImprimir = new System.Windows.Forms.Button();
+            this.btnFin = new System.Windows.Forms.Button();
+            this.txtPasos = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // textBox2
+            // btnPlumaArriba
             // 
-            this.textBox2.Location = new System.Drawing.Point(11, 79);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(44, 20);
-            this.textBox2.TabIndex = 17;
+            this.btnPlumaArriba.Location = new System.Drawing.Point(36, 12);
+            this.btnPlumaArriba.Name = "btnPlumaArriba";
+            this.btnPlumaArriba.Size = new System.Drawing.Size(94, 32);
+            this.btnPlumaArriba.TabIndex = 0;
+            this.btnPlumaArriba.Text = "Pluma Arriba";
+            this.btnPlumaArriba.UseVisualStyleBackColor = true;
+            this.btnPlumaArriba.Click += new System.EventHandler(this.btnPlumaArriba_Click);
             // 
-            // textBox1
+            // txtPiso
             // 
-            this.textBox1.Location = new System.Drawing.Point(61, 130);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(350, 156);
-            this.textBox1.TabIndex = 16;
+            this.txtPiso.Location = new System.Drawing.Point(36, 98);
+            this.txtPiso.Multiline = true;
+            this.txtPiso.Name = "txtPiso";
+            this.txtPiso.Size = new System.Drawing.Size(427, 264);
+            this.txtPiso.TabIndex = 1;
             // 
-            // button7
+            // btnPlumaAbajo
             // 
-            this.button7.Location = new System.Drawing.Point(312, 71);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(99, 35);
-            this.button7.TabIndex = 15;
-            this.button7.Text = "Fin de Datos";
-            this.button7.UseVisualStyleBackColor = true;
-            this.button7.Click += new System.EventHandler(this.button7_Click);
+            this.btnPlumaAbajo.Location = new System.Drawing.Point(142, 12);
+            this.btnPlumaAbajo.Name = "btnPlumaAbajo";
+            this.btnPlumaAbajo.Size = new System.Drawing.Size(92, 32);
+            this.btnPlumaAbajo.TabIndex = 2;
+            this.btnPlumaAbajo.Text = "Pluma abajo";
+            this.btnPlumaAbajo.UseVisualStyleBackColor = true;
+            this.btnPlumaAbajo.Click += new System.EventHandler(this.btnPlumaAbajo_Click);
             // 
-            // button6
+            // btnGirarIzquierda
             // 
-            this.button6.Location = new System.Drawing.Point(190, 71);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(99, 35);
-            this.button6.TabIndex = 14;
-            this.button6.Text = "imprime el Arreglo";
-            this.button6.UseVisualStyleBackColor = true;
-            this.button6.Click += new System.EventHandler(this.button6_Click);
+            this.btnGirarIzquierda.Location = new System.Drawing.Point(249, 12);
+            this.btnGirarIzquierda.Name = "btnGirarIzquierda";
+            this.btnGirarIzquierda.Size = new System.Drawing.Size(100, 32);
+            this.btnGirarIzquierda.TabIndex = 3;
+            this.btnGirarIzquierda.Text = "Girar izquierda";
+            this.btnGirarIzquierda.UseVisualStyleBackColor = true;
+            this.btnGirarIzquierda.Click += new System.EventHandler(this.btnGirarIzquierda_Click);
             // 
-            // button5
+            // btnGirarDerecha
             // 
-            this.button5.Location = new System.Drawing.Point(61, 71);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(99, 35);
-            this.button5.TabIndex = 13;
-            this.button5.Text = "Avanza";
-            this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.button5_Click);
+            this.btnGirarDerecha.Location = new System.Drawing.Point(364, 12);
+            this.btnGirarDerecha.Name = "btnGirarDerecha";
+            this.btnGirarDerecha.Size = new System.Drawing.Size(99, 32);
+            this.btnGirarDerecha.TabIndex = 4;
+            this.btnGirarDerecha.Text = "Girar derecha";
+            this.btnGirarDerecha.UseVisualStyleBackColor = true;
+            this.btnGirarDerecha.Click += new System.EventHandler(this.btnGirarDerecha_Click);
             // 
-            // button4
+            // btnAvanzar
             // 
-            this.button4.Location = new System.Drawing.Point(368, 12);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(99, 35);
-            this.button4.TabIndex = 12;
-            this.button4.Text = "Gira a la Izquierda";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
+            this.btnAvanzar.Location = new System.Drawing.Point(142, 61);
+            this.btnAvanzar.Name = "btnAvanzar";
+            this.btnAvanzar.Size = new System.Drawing.Size(87, 31);
+            this.btnAvanzar.TabIndex = 5;
+            this.btnAvanzar.Text = "Avanzar";
+            this.btnAvanzar.UseVisualStyleBackColor = true;
+            this.btnAvanzar.Click += new System.EventHandler(this.btnAvanzar_Click);
             // 
-            // button3
+            // btnImprimir
             // 
-            this.button3.Location = new System.Drawing.Point(246, 12);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(99, 35);
-            this.button3.TabIndex = 11;
-            this.button3.Text = "Gira a la derecha";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.btnImprimir.Location = new System.Drawing.Point(249, 61);
+            this.btnImprimir.Name = "btnImprimir";
+            this.btnImprimir.Size = new System.Drawing.Size(86, 31);
+            this.btnImprimir.TabIndex = 6;
+            this.btnImprimir.Text = "Imprime";
+            this.btnImprimir.UseVisualStyleBackColor = true;
+            this.btnImprimir.Click += new System.EventHandler(this.btnImprimir_Click);
             // 
-            // button2
+            // btnFin
             // 
-            this.button2.Location = new System.Drawing.Point(125, 12);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(99, 35);
-            this.button2.TabIndex = 10;
-            this.button2.Text = "Pluma hacia abajo";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.btnFin.Location = new System.Drawing.Point(350, 61);
+            this.btnFin.Name = "btnFin";
+            this.btnFin.Size = new System.Drawing.Size(85, 31);
+            this.btnFin.TabIndex = 7;
+            this.btnFin.Text = "Fin de datos";
+            this.btnFin.UseVisualStyleBackColor = true;
+            this.btnFin.Click += new System.EventHandler(this.btnFin_Click);
             // 
-            // button1
+            // txtPasos
             // 
-            this.button1.Location = new System.Drawing.Point(6, 12);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(99, 35);
-            this.button1.TabIndex = 9;
-            this.button1.Text = "Pluma hacia Arriba";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.txtPasos.Location = new System.Drawing.Point(50, 72);
+            this.txtPasos.Name = "txtPasos";
+            this.txtPasos.Size = new System.Drawing.Size(60, 20);
+            this.txtPasos.TabIndex = 8;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(472, 307);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.button7);
-            this.Controls.Add(this.button6);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(495, 374);
+            this.Controls.Add(this.txtPasos);
+            this.Controls.Add(this.btnFin);
+            this.Controls.Add(this.btnImprimir);
+            this.Controls.Add(this.btnAvanzar);
+            this.Controls.Add(this.btnGirarDerecha);
+            this.Controls.Add(this.btnGirarIzquierda);
+            this.Controls.Add(this.btnPlumaAbajo);
+            this.Controls.Add(this.txtPiso);
+            this.Controls.Add(this.btnPlumaArriba);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -147,15 +148,15 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnPlumaArriba;
+        private System.Windows.Forms.TextBox txtPiso;
+        private System.Windows.Forms.Button btnPlumaAbajo;
+        private System.Windows.Forms.Button btnGirarIzquierda;
+        private System.Windows.Forms.Button btnGirarDerecha;
+        private System.Windows.Forms.Button btnAvanzar;
+        private System.Windows.Forms.Button btnImprimir;
+        private System.Windows.Forms.Button btnFin;
+        private System.Windows.Forms.TextBox txtPasos;
     }
 }
 
